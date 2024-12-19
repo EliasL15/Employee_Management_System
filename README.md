@@ -4,6 +4,11 @@
 
 The **Employee Management System** is a comprehensive web application designed to streamline and manage various aspects of employee data, including profiles, leave requests, payroll processing, and contract terminations. It provides both administrators and employees with intuitive interfaces to efficiently handle everyday tasks and maintain accurate records.
 
+## **Technologies Used**
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript 
+- **Backend**: PHP 
+- **Database**: MySQL 
+
 ## Features
 
 - **Employee Directory**
